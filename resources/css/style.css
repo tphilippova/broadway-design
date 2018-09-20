@@ -20,3 +20,30 @@ nav a {
   color: white;
   padding:7px;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.main h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.main p {
+  font-size: 14px;
+}
+
+#work {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
