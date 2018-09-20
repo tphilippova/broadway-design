@@ -7,5 +7,16 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
+}
+
+.top {
   background-image: url("../images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+}
+
+nav a {
+  display: block;
+  font-size: 18px;
+  color: white;
+  padding:7px;
 }
