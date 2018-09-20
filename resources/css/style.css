@@ -7,5 +7,5 @@ h1 {
   font-size: 70px;
   font-weight: bold;
   color: white;
-  background-image: image(./resources/images/the-flatiron-building.png);
+  background-image: url("../images/the-flatiron-building.png");
 }
